@@ -1,6 +1,6 @@
 # IllustratorScripts
 
-IllustratorScripts is a collection of useful Adobe Illustrator scripts to streamline your workflow and make your design tasks more efficient.
+IllustratorScripts is a collection of useful Adobe Illustrator scripts to streamline your workflow and make your design tasks more efficient. This is incredibly handy for creating background shapes that span the entire canvas.
 
 ## Background Layer and Design Layer
 
@@ -10,7 +10,8 @@ IllustratorScripts is a collection of useful Adobe Illustrator scripts to stream
 
 ## Artboard-sized Rectangles
 
-- **Artboard-sized Rectangles:** This script creates artboard-sized rectangles on all artboards within the background layer. This is incredibly handy for creating background shapes that span the entire canvas.
+- **ArtboardBackgroundAll:** This script creates artboard-sized rectangles on all artboards in the background layer.
+- **ArtboardBackgroundSelected:** This script creates artboard-sized rectangles on the selected artboard in the background layer.
 
 ## Usage
 
